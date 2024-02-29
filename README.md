@@ -1,5 +1,4 @@
 # jovine360_api_web
-My custom-built api directory.
 
 As a developer, repeating the same process, like creating a data access object DAO for every database for every new project can be tiresome. Imagine having a program that can implement jdbc DAO for every database irrespective of the difference in the schema. For example, a dao that works with a database table with 10 fields as well as with another table with 8 fields without having to recreate it.
 
