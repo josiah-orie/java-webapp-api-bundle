@@ -1,0 +1,11 @@
+jovine360/web/DataConnection.class
+jovine360/web/Formatter.class
+jovine360/web/CheckDAO.class
+jovine360/web/DateTime.class
+jovine360/web/Ellipsis.class
+jovine360/web/Files.class
+jovine360/web/DataAccessObject.class
+jovine360/web/GeneratePassword.class
+jovine360/web/ReportDataDAO.class
+jovine360/web/AutoIdDAO.class
+jovine360/web/CodeGen.class

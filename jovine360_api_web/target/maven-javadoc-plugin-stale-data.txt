@@ -1,0 +1,42 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'/Users/josiah/NetBeansProjects/jovine360_api_web/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/josiah/NetBeansProjects/jovine360_api_web/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'jovine360_api_web 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'jovine360_api_web 1.0-SNAPSHOT API'
+jovine360.web
+/Users/josiah/NetBeansProjects/jovine360_api_web/src/main/java = 1709098307627
+/Users/josiah/NetBeansProjects/jovine360_api_web/target/site/apidocs/tag-search-index.js = 1709102918704
+/Users/josiah/NetBeansProjects/jovine360_api_web/target/site/apidocs/overview-tree.html = 1709102918667
+/Users/josiah/NetBeansProjects/jovine360_api_web/target/site/apidocs/module-search-index.js = 1709102918701
+/Users/josiah/NetBeansProjects/jovine360_api_web/target/site/apidocs/index.html = 1709102918748
+/Users/josiah/NetBeansProjects/jovine360_api_web/target/site/apidocs/package-search-index.js = 1709102918702
+/Users/josiah/NetBeansProjects/jovine360_api_web/target/site/apidocs/jquery-ui.overrides.css = 1709102918775
+/Users/josiah/NetBeansProjects/jovine360_api_web/target/site/apidocs/index-all.html = 1709102918746
+/Users/josiah/NetBeansProjects/jovine360_api_web/target/site/apidocs/allpackages-index.html = 1709102918699
+/Users/josiah/NetBeansProjects/jovine360_api_web/target/site/apidocs/member-search-index.js = 1709102918704
+/Users/josiah/NetBeansProjects/jovine360_api_web/target/site/apidocs/script.js = 1709102918758
+/Users/josiah/NetBeansProjects/jovine360_api_web/target/site/apidocs/stylesheet.css = 1709102918757
+/Users/josiah/NetBeansProjects/jovine360_api_web/target/site/apidocs/help-doc.html = 1709102918754
+/Users/josiah/NetBeansProjects/jovine360_api_web/target/site/apidocs/element-list = 1709102918620
+/Users/josiah/NetBeansProjects/jovine360_api_web/target/site/apidocs/allclasses-index.html = 1709102918696
+/Users/josiah/NetBeansProjects/jovine360_api_web/target/site/apidocs/type-search-index.js = 1709102918702
+/Users/josiah/NetBeansProjects/jovine360_api_web/target/site/apidocs/search.js = 1709102918761
